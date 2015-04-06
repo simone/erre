@@ -1,0 +1,31 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, ERRE
+# This file is distributed under the same license as the NCC 4 ROMA package.
+# 
+# Translators:
+# Simone <s.federici@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: NCC4ROMA\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-06 14:39+0200\n"
+"PO-Revision-Date: 2015-04-06 12:49+0000\n"
+"Last-Translator: Simone <s.federici@gmail.com>\n"
+"Language-Team: English (http://www.transifex.com/projects/p/ncc4roma/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/index.rst:7
+msgid "Noleggio auto con conducente per ROMA"
+msgstr "Rent a car with driver for ROMA"
+
+#: ../../source/index.rst:9
+msgid ""
+"Servizio di trasporto con autista privato, professionale e qualificato. "
+"Macchine di lusso per spostamenti nella città di Roma."
+msgstr ""
+"Transfer service with private driver, professional and qualified. "
+"Luxury cars to move around the city of Rome."

@@ -1,0 +1,20 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: NCC 4 ROMA 15.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-06 11:14+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../../../../../../.virtualenvs/ncc4roma/lib/python2.7/site-packages/ablog/templates/categories.html:2
+msgid "Categories"
+msgstr ""
+
+#: ../../../../../../../.virtualenvs/ncc4roma/lib/python2.7/site-packages/ablog/templates/postcard2.html:2
+msgid "Update"
+msgstr ""
